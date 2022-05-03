@@ -1,0 +1,19 @@
+ mkdir folder1
+     ls
+     cd folder1/
+     ls
+     touch Code.txt
+     touch Log.txt
+     touch Output.txt
+     ls
+     git init
+     git add .
+     git status
+     git commit -m "assignment 1"
+     git config --global user.email "sandeephborhade@gmail.com"
+     git config --global user.name "sandeephborhade@gmail.com"
+     git commit -m "assignment 1"
+     git branch -M main
+     git remote add origin https://github.com/sborhade/gitassignments.git
+     git push -u origin main
+     history
